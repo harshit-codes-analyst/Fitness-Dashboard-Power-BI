@@ -66,8 +66,9 @@ Bar chart showing monthly new memberships (Jan–Dec)
 ---
 
 ## 📷 Dashboard Preview
-```md
+
 ![Fitness Dashboard](project.png)
+
 ---
 
 ## 📥 How to Use
